@@ -62,7 +62,7 @@ freeline/
 freeline_project_description.json
 
 # fastlane
-fastlane/report.xml
+fastlane/no,report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
