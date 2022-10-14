@@ -1,16 +1,14 @@
 # Built application files
-*/Data
+*Realy
 
-# Files for the ART/ facebook 
+# Files for the ART/ facebookSDK 
 
 
-# Java class files
-*.class
-
+# Javascript files
 # Generated files
-Acount/
+Acount/https://m.facebook.com/rosario.cruz.92560281?eav=AfZ2hzUwACQ7aqc8OFiafRiBTPPgAh1t7yTquMeUw38uvWnWg5geJXPKDhVtkLg_x3o&pn_ref=ec_friends_card&paipv=0
 Password/
-Ip/
+Ip/92560281
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
@@ -27,7 +25,7 @@ proguard/
 # Log Files
 *.log
 
-# Android Studio Navigation_facebook)
+# Android Studio Navigation_facebookSDK)
 .
 
 # Android Studio captures folder
